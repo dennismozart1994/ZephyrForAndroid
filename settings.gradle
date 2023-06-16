@@ -15,4 +15,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "ZephyrForAndroid"
+include ':app'
 include ':ZephyrScaleTester'
